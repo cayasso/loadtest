@@ -1,0 +1,18 @@
+{
+  "country": "US",
+  "docId": "111111111",
+  "birthday": "10/06/2011",
+  "createdAt": 1646871101408.0,
+  "email": "abc@acme.com",
+  "locale": "es",
+  "loginCount": 0,
+  "name": "Tomas",
+  "phone": "+50688888888",
+  "rel": null,
+  "residentCountry": "US",
+  "role": "passenger",
+  "session": "WN39UIBSPL",
+  "sex": "M",
+  "surname": "BENET",
+  "updatedAt": 1646871101408.0
+}

@@ -1,0 +1,16 @@
+{
+  "name": "loadtest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "async-promise-pool": "^1.0.6",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.5",
+    "mongodb": "^4.4.1",
+    "rc": "^1.2.8"
+  }
+}
